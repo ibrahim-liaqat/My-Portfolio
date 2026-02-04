@@ -86,7 +86,7 @@ document.addEventListener("DOMContentLoaded", function () {
             message: message
         };
 
-        emailjs.send("service_dfvasfs", "template_ebvil2w", params)
+        emailjs.send("service_4uhhd9w", "template_ebvil2w", params)
             .then(() => {
                 alert("Email sent successfully!");
             })
